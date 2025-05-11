@@ -1,0 +1,13 @@
+.preview {
+  opacity: 0;
+  color: gray;
+  font-weight: normal;
+}
+
+.square:hover .preview {
+  opacity: 0.4;
+}
+
+.square:hover {
+  background-color: #c7c2c2 !important;
+}
